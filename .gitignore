@@ -1,6 +1,6 @@
 # Virtual Environments (This stops the 1000s of files!)
 venv/
-env/
+my_env/
 .env/
 .venv/
 
